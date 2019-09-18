@@ -1,4 +1,4 @@
-t=int(input())
+t=int(input())#test cases
 k=[]
 for j in range(t):
     a = input()
