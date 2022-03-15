@@ -1,3 +1,4 @@
+#added comments
 def _push(a, n):
     s=[]
     s.append(a[0])
